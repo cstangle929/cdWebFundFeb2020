@@ -8,3 +8,5 @@ else if(passPhrase == "Hello World") {
 else {
     console.log("Not even close")
 }  
+
+//this is a comment 
