@@ -10,3 +10,5 @@ else {
 }  
 
 //this is a comment 
+//more comments
+ console.log("why?");
